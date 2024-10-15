@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as a Developer in STL Digital
 
-- 🌱 I’m currently learning new Technologies **Solidity**
+- 🌱 I’m currently learning new Programming Language **Solidity**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-kappa-orpin-83.vercel.app/](https://portfolio-kappa-orpin-83.vercel.app/)
 
